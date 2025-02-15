@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin: 1px;
+}
+.container{
+    width: 300px;
+    background-color: aliceblue;
+    padding: 20px;
+    box-shadow: none;
+    border-radius: 8px;
+}
+.button{
+    width: 100%;
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+
+}
